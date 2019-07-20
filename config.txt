@@ -1,4 +1,4 @@
-token=NjAxOTY3MDg4MDI1NzMxMDcy.XTKDYw.7KhKcgN07TT7pxqo0V4mqbFWyd8 
+token=NjAxOTgxNTE2NDk0NDA1NjMy.XTKPfg.JvvTYIbLnXWAsShwE4Tz7HLfWVw
 stayinchannel=true
 songinstatus=false
 owner=581659082520526848
